@@ -1,0 +1,27 @@
+{
+    "conll": {
+        "DET__edits_count": 247,
+        "DET__edits_ml_not_corrected_count": 152,
+        "DET__texts_count": 145,
+        "PRON__edits_count": 242,
+        "PRON__edits_ml_not_corrected_count": 217,
+        "PRON__texts_count": 115,
+        "PUNCT__edits_count": 56,
+        "PUNCT__edits_ml_not_corrected_count": 44,
+        "PUNCT__texts_count": 48,
+        "VERB:TENSE__edits_count": 368,
+        "VERB:TENSE__edits_ml_not_corrected_count": 285,
+        "VERB:TENSE__texts_count": 169,
+        "texts_count": 252
+    },
+    "realec-raw": {
+        "Inappropriate_register__edits_count": 871,
+        "Inappropriate_register__edits_ml_not_corrected_count": 871,
+        "Linking_device__edits_count": 497,
+        "Linking_device__edits_ml_not_corrected_count": 497,
+        "Linking_device__texts_count": 404,
+        "Ref_device__edits_count": 771,
+        "Ref_device__edits_ml_not_corrected_count": 771,
+        "texts_count": 4076
+    }
+}
